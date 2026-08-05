@@ -13,9 +13,12 @@ class Solution {
         for(int i = 0; i < nums.length; i++) {
             sum += nums[i];
         }
-        Arrays.sort(nums);
         int smallest = nums[0];
-        int largest = nums[nums.length - 1];
+        int largest = nums[0];
+        for(int i = 1; i < nums.length; i++) {
+            smallest = Math.min(smallest, nums[i]);
+            largest = Math.max(largest, nums[i]);
+        }
         
         for(int i = smallest + 1; i < largest; i++) {
             if(!hs.contains(i)) {

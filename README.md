@@ -6,6 +6,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/anugrah-pal/Leetcode/tree/master/0031-next-permutation) |
 | [0152-maximum-product-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0268-missing-number](https://github.com/anugrah-pal/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/anugrah-pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -16,6 +17,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/anugrah-pal/Leetcode/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/anugrah-pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/anugrah-pal/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |

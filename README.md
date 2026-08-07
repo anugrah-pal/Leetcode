@@ -13,6 +13,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0350-intersection-of-two-arrays-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/anugrah-pal/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anugrah-pal/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/anugrah-pal/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3731-find-missing-elements](https://github.com/anugrah-pal/Leetcode/tree/master/3731-find-missing-elements) |
@@ -22,6 +23,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0031-next-permutation](https://github.com/anugrah-pal/Leetcode/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/anugrah-pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anugrah-pal/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/anugrah-pal/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Binary Search
 |  |

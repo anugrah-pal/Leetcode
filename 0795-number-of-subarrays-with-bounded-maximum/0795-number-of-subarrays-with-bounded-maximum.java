@@ -10,8 +10,9 @@ class Solution {
                 lastAns = 0;
             }
             else if(left <= nums[i] && nums[i] <= right) {
+                
+                count += i - ele;
                 lastAns = i - ele;
-                count += lastAns;
                 
             }
             else if(nums[i] < left) {

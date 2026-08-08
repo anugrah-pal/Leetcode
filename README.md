@@ -14,6 +14,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0349-intersection-of-two-arrays](https://github.com/anugrah-pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/anugrah-pal/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0724-find-pivot-index](https://github.com/anugrah-pal/Leetcode/tree/master/0724-find-pivot-index) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/anugrah-pal/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anugrah-pal/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -52,6 +53,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/anugrah-pal/Leetcode/tree/master/0724-find-pivot-index) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/anugrah-pal/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Divide and Conquer
 |  |

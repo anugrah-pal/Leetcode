@@ -106,6 +106,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anugrah-pal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anugrah-pal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/anugrah-pal/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -133,6 +134,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/anugrah-pal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0556-next-greater-element-iii](https://github.com/anugrah-pal/Leetcode/tree/master/0556-next-greater-element-iii) |
 ## Counting
 |  |
@@ -144,4 +146,8 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | ------- |
 | [0169-majority-element](https://github.com/anugrah-pal/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0229-majority-element-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anugrah-pal/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

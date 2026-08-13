@@ -11,6 +11,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0042-trapping-rain-water](https://github.com/anugrah-pal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anugrah-pal/Leetcode/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anugrah-pal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anugrah-pal/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0229-majority-element-ii) |
@@ -72,6 +73,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anugrah-pal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anugrah-pal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue

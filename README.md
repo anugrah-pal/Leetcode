@@ -25,6 +25,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anugrah-pal/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/anugrah-pal/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anugrah-pal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anugrah-pal/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/anugrah-pal/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -37,6 +38,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0556-next-greater-element-iii](https://github.com/anugrah-pal/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anugrah-pal/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/anugrah-pal/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anugrah-pal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/anugrah-pal/Leetcode/tree/master/0054-spiral-matrix) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/anugrah-pal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |

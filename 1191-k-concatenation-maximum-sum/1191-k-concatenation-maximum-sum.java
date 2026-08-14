@@ -26,6 +26,6 @@ class Solution {
 
         }
 
-        return (int)(maxsum % 1_000_000_007);
+        return (int)(maxsum % 1000000007);
     }
 }

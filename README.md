@@ -9,6 +9,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0031-next-permutation](https://github.com/anugrah-pal/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/anugrah-pal/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/anugrah-pal/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/anugrah-pal/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anugrah-pal/Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anugrah-pal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,6 +102,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anugrah-pal/Leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/anugrah-pal/Leetcode/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/anugrah-pal/Leetcode/tree/master/0556-next-greater-element-iii) |
 ## Bit Manipulation
@@ -130,6 +132,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anugrah-pal/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anugrah-pal/Leetcode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |

@@ -6,6 +6,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anugrah-pal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/anugrah-pal/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/anugrah-pal/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/anugrah-pal/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -34,6 +35,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anugrah-pal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/anugrah-pal/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anugrah-pal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/anugrah-pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -126,6 +128,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/anugrah-pal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/anugrah-pal/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Monotonic Stack

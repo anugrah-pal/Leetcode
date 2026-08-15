@@ -25,6 +25,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0769-max-chunks-to-make-sorted](https://github.com/anugrah-pal/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/anugrah-pal/Leetcode/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anugrah-pal/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/anugrah-pal/Leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/anugrah-pal/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anugrah-pal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -80,6 +81,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anugrah-pal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anugrah-pal/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/anugrah-pal/Leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 ## Queue
 |  |

@@ -14,6 +14,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0049-group-anagrams](https://github.com/anugrah-pal/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anugrah-pal/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/anugrah-pal/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anugrah-pal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anugrah-pal/Leetcode/tree/master/0169-majority-element) |
@@ -116,6 +117,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | ------- |
 | [0013-roman-to-integer](https://github.com/anugrah-pal/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anugrah-pal/Leetcode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/anugrah-pal/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anugrah-pal/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/anugrah-pal/Leetcode/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/anugrah-pal/Leetcode/tree/master/0556-next-greater-element-iii) |

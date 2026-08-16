@@ -37,6 +37,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anugrah-pal/Leetcode/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anugrah-pal/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anugrah-pal/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anugrah-pal/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/anugrah-pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -158,6 +159,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | ------- |
 | [0013-roman-to-integer](https://github.com/anugrah-pal/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anugrah-pal/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anugrah-pal/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/anugrah-pal/Leetcode/tree/master/0049-group-anagrams) |
 | [0556-next-greater-element-iii](https://github.com/anugrah-pal/Leetcode/tree/master/0556-next-greater-element-iii) |
 ## Counting
@@ -178,4 +180,20 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anugrah-pal/Leetcode/tree/master/0070-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anugrah-pal/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anugrah-pal/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anugrah-pal/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anugrah-pal/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

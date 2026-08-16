@@ -99,6 +99,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anugrah-pal/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/anugrah-pal/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anugrah-pal/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anugrah-pal/Leetcode/tree/master/0169-majority-element) |
@@ -112,6 +113,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anugrah-pal/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/anugrah-pal/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/anugrah-pal/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/anugrah-pal/Leetcode/tree/master/0268-missing-number) |
@@ -154,6 +156,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anugrah-pal/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anugrah-pal/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/anugrah-pal/Leetcode/tree/master/0049-group-anagrams) |
 | [0556-next-greater-element-iii](https://github.com/anugrah-pal/Leetcode/tree/master/0556-next-greater-element-iii) |

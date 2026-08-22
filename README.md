@@ -6,6 +6,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anugrah-pal/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anugrah-pal/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/anugrah-pal/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/anugrah-pal/Leetcode/tree/master/0041-first-missing-positive) |
@@ -103,6 +104,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anugrah-pal/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anugrah-pal/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/anugrah-pal/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anugrah-pal/Leetcode/tree/master/0049-group-anagrams) |

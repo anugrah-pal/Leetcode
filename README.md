@@ -17,6 +17,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0054-spiral-matrix](https://github.com/anugrah-pal/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anugrah-pal/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anugrah-pal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/anugrah-pal/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anugrah-pal/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0229-majority-element-ii) |
@@ -108,6 +109,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0013-roman-to-integer](https://github.com/anugrah-pal/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/anugrah-pal/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/anugrah-pal/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/anugrah-pal/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/anugrah-pal/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anugrah-pal/Leetcode/tree/master/0268-missing-number) |
@@ -215,4 +217,8 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/anugrah-pal/Leetcode/tree/master/1122-relative-sort-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/anugrah-pal/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

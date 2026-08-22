@@ -22,6 +22,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0169-majority-element](https://github.com/anugrah-pal/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anugrah-pal/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/anugrah-pal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anugrah-pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/anugrah-pal/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -64,6 +65,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0169-majority-element](https://github.com/anugrah-pal/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anugrah-pal/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/anugrah-pal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anugrah-pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -82,6 +84,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | ------- |
 | [0053-maximum-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anugrah-pal/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/anugrah-pal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anugrah-pal/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -113,6 +116,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0169-majority-element](https://github.com/anugrah-pal/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anugrah-pal/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/anugrah-pal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/anugrah-pal/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/anugrah-pal/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -176,6 +180,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | ------- |
 | [0169-majority-element](https://github.com/anugrah-pal/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/anugrah-pal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -221,4 +226,16 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/anugrah-pal/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anugrah-pal/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anugrah-pal/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anugrah-pal/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,6 @@ class Solution {
                 hi = mid - 1;
             }
         }
-        return nums[0];
+        return nums[lo];
     }
 }

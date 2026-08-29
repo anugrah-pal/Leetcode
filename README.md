@@ -8,6 +8,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | ------- |
 | [0001-two-sum](https://github.com/anugrah-pal/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/anugrah-pal/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anugrah-pal/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/anugrah-pal/Leetcode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/anugrah-pal/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/anugrah-pal/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -48,6 +49,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/anugrah-pal/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/anugrah-pal/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anugrah-pal/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anugrah-pal/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anugrah-pal/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -72,6 +74,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anugrah-pal/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/anugrah-pal/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/anugrah-pal/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0229-majority-element-ii) |

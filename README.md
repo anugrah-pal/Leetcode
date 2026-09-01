@@ -42,6 +42,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/anugrah-pal/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1191-k-concatenation-maximum-sum](https://github.com/anugrah-pal/Leetcode/tree/master/1191-k-concatenation-maximum-sum) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/anugrah-pal/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/anugrah-pal/Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anugrah-pal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anugrah-pal/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/anugrah-pal/Leetcode/tree/master/3731-find-missing-elements) |
@@ -86,6 +87,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0769-max-chunks-to-make-sorted](https://github.com/anugrah-pal/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1122-relative-sort-array](https://github.com/anugrah-pal/Leetcode/tree/master/1122-relative-sort-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/anugrah-pal/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/anugrah-pal/Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anugrah-pal/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/anugrah-pal/Leetcode/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
@@ -168,6 +170,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0410-split-array-largest-sum](https://github.com/anugrah-pal/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/anugrah-pal/Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/anugrah-pal/Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 ## Monotonic Stack
 |  |
 | ------- |

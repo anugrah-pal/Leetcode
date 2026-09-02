@@ -46,6 +46,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [2161-partition-array-according-to-given-pivot](https://github.com/anugrah-pal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anugrah-pal/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/anugrah-pal/Leetcode/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/anugrah-pal/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0070-climbing-stairs](https://github.com/anugrah-pal/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/anugrah-pal/Leetcode/tree/master/0268-missing-number) |
 | [0556-next-greater-element-iii](https://github.com/anugrah-pal/Leetcode/tree/master/0556-next-greater-element-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/anugrah-pal/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |

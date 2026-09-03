@@ -45,6 +45,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/anugrah-pal/Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/anugrah-pal/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anugrah-pal/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anugrah-pal/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/anugrah-pal/Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anugrah-pal/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -143,6 +144,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0496-next-greater-element-i](https://github.com/anugrah-pal/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/anugrah-pal/Leetcode/tree/master/1122-relative-sort-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/anugrah-pal/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anugrah-pal/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/anugrah-pal/Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -159,6 +161,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | ------- |
 | [0191-number-of-1-bits](https://github.com/anugrah-pal/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/anugrah-pal/Leetcode/tree/master/0268-missing-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anugrah-pal/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | ------- |
 | [0048-rotate-image](https://github.com/anugrah-pal/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anugrah-pal/Leetcode/tree/master/0054-spiral-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anugrah-pal/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -264,4 +268,8 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anugrah-pal/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anugrah-pal/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->

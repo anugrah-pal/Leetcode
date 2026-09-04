@@ -24,6 +24,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/anugrah-pal/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anugrah-pal/Leetcode/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/anugrah-pal/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/anugrah-pal/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anugrah-pal/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/anugrah-pal/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -162,6 +163,7 @@ A collection of my LeetCode solutions, documenting my problem-solving journey an
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/anugrah-pal/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/anugrah-pal/Leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/anugrah-pal/Leetcode/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anugrah-pal/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
